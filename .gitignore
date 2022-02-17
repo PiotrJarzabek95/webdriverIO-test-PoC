@@ -1,0 +1,16 @@
+
+# compiled output
+/dist
+
+# dependencies
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# additional drivers
+msedgedriver.exe
+
+# husky
+.husky/_
+.husky/.gitignore
