@@ -1,0 +1,12 @@
+{
+    "APPS": {
+      "USER_APP": {
+        "URL": "https://www.dev.hxp.hyland.com",
+        "SPECS": ["./test/specs/user-app/**/*.ts"]
+      }
+    },
+    "WDIO_USER_NAME": "bob",
+    "WDIO_GIVEN_NAME": "Bob",
+    "WDIO_LAST_NAME": "Smith"
+  }
+  

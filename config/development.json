@@ -1,0 +1,18 @@
+{
+    "APPS": {
+      "USER_APP": {
+        "URL": "https://www.dev.hxp.hyland.com",
+        "SPECS": ["./test/specs/user-app/**/*.ts"]
+      },
+      "ADMIN_APP": {
+        "URL": "https://admin.dev.hxp.hyland.com",
+        "SPECS": ["./test/specs/admin-app/**/*.ts"]
+      }
+    },
+    "WDIO_USER_NAME": "bob",
+    "WDIO_GIVEN_NAME": "Bob",
+    "WDIO_LAST_NAME": "Smith",
+    "WDIO_USER_GROUP": "Account Administrators",
+    "WDIO_EXISTING_GROUP": "zzz83z472ux00kq7wqjq2zlc"
+  }
+  
